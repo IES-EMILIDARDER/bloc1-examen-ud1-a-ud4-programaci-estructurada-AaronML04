@@ -19,6 +19,8 @@ public class EX_4 {
         
         // Mostra l''ArrayList' resultant
         UtilExamen.mostrarArrayListInt(resultat);
+        
+        
     }
 }
 
